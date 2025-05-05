@@ -8,7 +8,7 @@ sonarqubeScanner({
     'sonar.projectVersion': '1.0',
     'sonar.sources': '.',
     'sonar.sourceEncoding': 'UTF-8',
-    'sonar.login': 'TON_TOKEN_PERSONNEL_ICI'
+    'sonar.login': '6d36ea0d6bbc7e4ab52e71f6c62c63305e2a21ed'
   },
 }, () => {});
 
